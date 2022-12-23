@@ -18,6 +18,7 @@
 <div align=center>
   <p>
   <img src="https://img.shields.io/badge/React-3178C6?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-3178C6?style=flat&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/>
