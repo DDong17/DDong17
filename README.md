@@ -1,4 +1,4 @@
-###  <div align=center>👋 안녕하세요 Front End 개발 공부중 입니다. </div>
+###  <div align=center>👋 안녕하세요 개발 공부중 입니다. </div>
 <div align=center>
   <p>📚Experience📚</p>
 </div>
